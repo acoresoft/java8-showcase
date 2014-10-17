@@ -1,4 +1,4 @@
-package ng.acoresoft.java8.time;
+package com.acoreful.java8.time;
 
 import java.time.Clock;
 import java.time.Duration;
